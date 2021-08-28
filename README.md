@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EVE-22
+- 👋 Hi, I’m @VARSHA
 - 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on ANY DATA SCIENCE PROJECT
