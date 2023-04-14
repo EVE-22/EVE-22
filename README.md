@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @VARSHA
+- 👋 Hi, I’m @VARSHA.S.ANAND 
 - 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on ANY DATA SCIENCE PROJECT
 - 📫 How to reach me MY MAIL (mail2varshasanand@gamil.com)
 
